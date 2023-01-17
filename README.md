@@ -3,6 +3,7 @@
 Template per l'utilizzo di Azure Functions (e Durable Functions) all'interno del
 progetto IO.
 
+
 Una volta clonato il repo assicurarsi di:
 
 - editare i metadati del repository nel file `package.json`
